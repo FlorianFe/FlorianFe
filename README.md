@@ -1,8 +1,8 @@
 ### My Projects
 
-<a href="https://github.com/FlorianFe/Elements"><img width="100" src="https://github.com/FlorianFe/Elements/blob/master/build/icon.png?raw=true"></a>
+<a href="https://github.com/FlorianFe/Elements"><img width="100" src="https://camo.githubusercontent.com/10354f72761f64432087a77673c42967c7baec3b/68747470733a2f2f666c6f7269616e66652e6769746875622e696f2f73637265656e73686f74732f656c656d656e74732f69636f6e2e706e67"></a>
 <a href="https://github.com/FlorianFe/PaperCubes"><img width="100" src="https://camo.githubusercontent.com/24dbdb1f2ea6a72b60c3221906142e17367a6a0e/68747470733a2f2f666c6f7269616e66652e6769746875622e696f2f73637265656e73686f74732f506170657243756265732f69636f6e2e706e67"></a>
-<a href="https://github.com/FlorianFe/Cells"><img width="100" src="https://github.com/FlorianFe/Cells/blob/master/build/icon.png?raw=true"></a>
+<a href="https://github.com/FlorianFe/Cells"><img width="100" src="https://user-images.githubusercontent.com/19766850/89583167-20e80200-d83a-11ea-9255-70ffcc303d8e.png"></a>
 
 ### Connect with me
 
